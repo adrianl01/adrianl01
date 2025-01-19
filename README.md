@@ -8,7 +8,7 @@ I've been learing code for 2 years now, recently finishing a fullstack career on
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [ga.leiva.1601@gmail.com](mailto:ga.leiva.1601@gmail.com)
-* 🤝  I'm open to collaborating on any kind of projects
+* 🤝  I'm open to collaborate on any kind of projects
 
 ### Skills
 
